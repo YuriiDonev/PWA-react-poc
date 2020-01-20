@@ -7,7 +7,7 @@
     "runtime-main.js.map": "/static/js/runtime-main.17d8c657.js.map",
     "static/js/2.3584dbf7.chunk.js": "/static/js/2.3584dbf7.chunk.js",
     "static/js/2.3584dbf7.chunk.js.map": "/static/js/2.3584dbf7.chunk.js.map",
-    "index.html": "/PWA-react-poc/index.html",
+    "index.html": "/index.html",
     "precache-manifest.d7e7be95d8b7ce223bed184751804102.js": "/precache-manifest.d7e7be95d8b7ce223bed184751804102.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
